@@ -111,5 +111,3 @@ export const deleteEjemplo = async (req, res) => {
         return res.status(500).json({
             msg: 'Error al eliminar el ejemplo'
         });
-    }
-};
