@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const ejemploShema = new mongoose.Schema({
+cont  ejemploShema = new mongoose.Schema({
     nombre:{
         type: String,
         required: true
