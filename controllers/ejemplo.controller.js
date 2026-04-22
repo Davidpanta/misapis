@@ -1,4 +1,4 @@
-import Ejemplo from '../models/ejemplo.model.js';
+import Ejemplo from '../models/ejemplo.model.js'1;
 import mongoose from 'mongoose';
 
 export const getAllEjemplos = async (req, res) => {
